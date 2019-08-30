@@ -4,4 +4,8 @@ hola
 
 jjjj
 
+<<<<<<< HEAD
 owo
+=======
+AwA
+>>>>>>> master
